@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/anush97/Text-Summarization-using-NLP
+Author: anush97
+Author-email: anushstella97@gmail.com
+Project-URL: Bug Tracker, https://github.com/anush97/Text-Summarization-using-NLP/issues
+
+''Text-Summarization-using-NLP''
