@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/anush97/Text-Summarization-using-NLP.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -48,10 +48,6 @@ open up you local host and port
 ```
 
 
-```bash
-Author: Krish Naik
-Data Scientist
-Email: krishnaik06@gmail.com
 
 ```
 
@@ -90,7 +86,7 @@ Email: krishnaik06@gmail.com
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.us-east-1.amazonaws.com/text-s
+    - Save the URI: 
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
